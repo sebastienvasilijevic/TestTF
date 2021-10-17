@@ -1,0 +1,19 @@
+/* 
+  Localized.strings
+  TestTheFork
+
+  Created by VASILIJEVIC Sebastien on 15/10/2021.
+  
+*/
+
+"restaurants" = "Restaurants";
+
+"sorted_by" = "Sorted by";
+"sort_by" = "Sort by";
+
+"sort_name" = "Name";
+"sort_ratingTheFork" = "TheFork rating";
+"sort_ratingTripAdvisor" = "Tripadvisor rating";
+"sort_cancel" = "Cancel";
+
+"average_price" = "Average price";
